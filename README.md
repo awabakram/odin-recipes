@@ -1,0 +1,1 @@
+This is a website that will store recipes. There will be a main index page with links to a few recipes.
